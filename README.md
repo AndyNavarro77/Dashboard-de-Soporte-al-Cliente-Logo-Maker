@@ -34,6 +34,6 @@ Brindar a los equipos de **Customer Support** una herramienta que facilite:
 4. Utilizá el análisis para mejorar la eficiencia del equipo.
 
 📬 Contacto  
-Gmail: andresnavarroalvarez15@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)  
 [Portfolio Web](https://andres-navarro-portfolio.netlify.app/)
+Gmail: andresnavarroalvarez15@gmail.com  
