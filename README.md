@@ -33,7 +33,8 @@ Brindar a los equipos de **Customer Support** una herramienta que facilite:
 3. Identificá puntos críticos y prioridades operativas.
 4. Utilizá el análisis para mejorar la eficiencia del equipo.
 
-📬 Contacto  
-[LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)  
-[Portfolio Web](https://andres-navarro-portfolio.netlify.app/)
-Gmail: andresnavarroalvarez15@gmail.com  
+📬 Contacto
+
+🔗 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)  
+🌐 [Portfolio Web](https://andres-navarro-portfolio.netlify.app/)
+📧 andresnavarroalvarez15@gmail.com  
